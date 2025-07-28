@@ -1,4 +1,4 @@
-## Olá! Eu eu sou Danilo Silveira 👋
+## Olá! Eu sou Danilo Silveira 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilossilveira&theme=shadow_red)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilossilveira&size_weight=0.5&count_weight=0.5&theme=shadow_red)<br>
  <img align="center" alt="inter" height="80" width="80" src="https://vetores.org/d/internacional.svg">
