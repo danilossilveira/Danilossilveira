@@ -1,17 +1,48 @@
-## Olá! Eu sou Danilo Silveira 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilossilveira&theme=shadow_red)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilossilveira&size_weight=0.5&count_weight=0.5&theme=shadow_red)<br>
+# Olá! Eu sou Danilo Silveira 👋
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Danilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Danilo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Danilo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Danilo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Danilo-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-  </div>
-ﾠ
-<div> 
-  <a href="https://www.instagram.com/sdanilo01/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:danilosantossilveira.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/danilo-santos-silveira-59a510296/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+
+---
+
+## 🚀 Tecnologias que uso
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
 </div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danilossilveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danilossilveira&layout=compact&theme=radical)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Danilossilveira&theme=react-dark&hide_border=true)
+
+---
+
+## 📫 Contato
+
+- 📷 Instagram: [@sdanilo01](https://instagram.com/sdanilo01)
+- 📧 Email: [danilosantossilveira.com@gmail.com](mailto:danilosantossilveira.com@gmail.com)
+- 💼 LinkedIn: [Danilo Santos Silveira](https://www.linkedin.com/in/danilo-santos-silveira/)
+
+---
+
+## 🛠️ Sobre mim
+
+- 💡 Gosto de criar projetos que resolvem problemas reais
+- 🧠 Aprendizado contínuo é parte da minha rotina
+
+---
+
+## 📌 Badges
+
+![Profile views](https://komarev.com/ghpvc/?username=Danilossilveira&color=blueviolet)
+![Followers](https://img.shields.io/github/followers/Danilossilveira?style=social)
+![Stars](https://img.shields.io/github/stars/Danilossilveira?style=social)
